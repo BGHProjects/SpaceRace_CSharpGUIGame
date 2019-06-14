@@ -1,0 +1,11 @@
+C:\Sandpit\Student Project\Space Race\Object Classes\bin\Debug\Object Classes.dll
+C:\Sandpit\Student Project\Space Race\Object Classes\bin\Debug\Object Classes.pdb
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.csprojAssemblyReference.cache
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.csproj.CoreCompileInputs.cache
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.dll
+C:\Sandpit\Student Project\Space Race\Object Classes\obj\Debug\Object Classes.pdb
+C:\Users\Smith's\Desktop\Brodies_Computer_Science_Notes\2018_Sem_2\CAB201 Programming Principles\Assignment Again\Space Race(1)\Space Race\Object Classes\bin\Debug\Object Classes.dll
+C:\Users\Smith's\Desktop\Brodies_Computer_Science_Notes\2018_Sem_2\CAB201 Programming Principles\Assignment Again\Space Race(1)\Space Race\Object Classes\bin\Debug\Object Classes.pdb
+C:\Users\Smith's\Desktop\Brodies_Computer_Science_Notes\2018_Sem_2\CAB201 Programming Principles\Assignment Again\Space Race(1)\Space Race\Object Classes\obj\Debug\Object Classes.dll
+C:\Users\Smith's\Desktop\Brodies_Computer_Science_Notes\2018_Sem_2\CAB201 Programming Principles\Assignment Again\Space Race(1)\Space Race\Object Classes\obj\Debug\Object Classes.pdb
+C:\Users\Smith's\Desktop\Brodies_Computer_Science_Notes\2018_Sem_2\CAB201 Programming Principles\Assignment Again\Space Race(1)\Space Race\Object Classes\obj\Debug\Object Classes.csprojResolveAssemblyReference.cache
